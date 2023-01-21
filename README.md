@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cavendish98
 - 👀 I’m interested in computer arch
-- 🌱 I’m currently learning C programming
+- 🌱 I’m currently learning Digital Deisgn and Integrated Circuits
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
