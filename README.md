@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cavendish98
-- 👀 I’m interested in computer arch
+- 👀 I’m interested in computer arch and system security
 - 🌱 I’m currently learning Digital Deisgn and Integrated Circuits
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
